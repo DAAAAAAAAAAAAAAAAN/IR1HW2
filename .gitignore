@@ -7,3 +7,13 @@ index/
 
 reduced_vectors_google\.txt
 .DS_Store
+
+trained_word2vec_after_1_epoch\.pickle
+
+trained_word2vec_after_2_epoch\.pickle
+
+trained_word2vec_after_3_epoch\.pickle
+
+trained_word2vec_after_4_epoch\.pickle
+
+google_word2vec\.pickle
