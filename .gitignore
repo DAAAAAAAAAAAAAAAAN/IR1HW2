@@ -17,3 +17,5 @@ trained_word2vec_after_3_epoch\.pickle
 trained_word2vec_after_4_epoch\.pickle
 
 google_word2vec\.pickle
+
+*.pickle
