@@ -19,3 +19,27 @@ trained_word2vec_after_4_epoch\.pickle
 google_word2vec\.pickle
 
 *.pickle
+
+lda200topics\.lda
+
+lda200topics\.lda\.expElogbeta\.npy
+
+lda200topics\.lda\.id2word
+
+lda200topics\.lda\.state
+
+lda200topics\.lda\.state\.sstats\.npy
+
+lsi10topics\.lsi
+
+lsi10topics\.lsi\.projection
+
+lsi200topics\.lsi
+
+lsi200topics\.lsi\.projection
+
+lsi200topics\.lsi\.projection\.u\.npy
+
+inverted_index\.py
+
+lsi_cos\.run
